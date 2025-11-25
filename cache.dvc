@@ -1,0 +1,6 @@
+outs:
+- md5: 2608062643831a18382e26b3545557e1.dir
+  size: 9108220899
+  nfiles: 852
+  hash: md5
+  path: cache
