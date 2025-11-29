@@ -1,7 +1,10 @@
 [core]
-    remote = storage
+    remote = main
 ['remote "storage"']
     url = /Users/tauqeerahson/dvc-storage
+['remote "main"']
+    url = s3://f1-prediction-data
+    region = us-east-1
 ['remote "origin"']
     url = s3://f1-prediction-data
     region = us-east-1

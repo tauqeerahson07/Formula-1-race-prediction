@@ -8,3 +8,5 @@ scikit-learn==1.6.1
 streamlit==1.37.1
 dvc-s3
 dvc
+mlflow<3
+dagshub
